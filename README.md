@@ -4,3 +4,4 @@
 1. Patterns : 
     1. Rectangular Pattern - complete
     2. Right Angled Pattern - complete
+    3. Right Angled Numbers Pattern - complete
