@@ -7,3 +7,4 @@
     3. Right Angled Numbers Pattern - complete
     4. Right Angled Number - variant 2(const value for entire row) - complete
     5. Inverted Right Pyramid - completed
+    6. Inverted Number Right Pyramid - completed
