@@ -32,3 +32,4 @@
 
 2. Basic Recursion :
     1. Factorial of a Number - completed
+    2. Reverse an Array - completed
