@@ -11,5 +11,6 @@
    ---
 
 16-06-2025 : 
-1. Patterns : 
+1. Patterns :
+    1. Star Pyramid - completed
     2. Inverted Star Pyramid - completed
