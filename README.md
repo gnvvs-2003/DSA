@@ -28,3 +28,4 @@
     4. GCD - completed
     5. Armstrong Checking - completed
     6. Printing Divisors - completed
+    7. Check Prime - completed
