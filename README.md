@@ -1,6 +1,6 @@
 # DSA
 
-15-06-2025 : 
+15-06-2025 : Night
 1. Patterns : 
     1. Rectangular Pattern - complete
     2. Right Angled Pattern - complete
@@ -10,7 +10,7 @@
     6. Inverted Number Right Pyramid - completed
    ---
 
-16-06-2025 : 
+16-06-2025 : Morning
 1. Patterns :
     1. Star Pyramid - completed
     2. Inverted Star Pyramid - completed
@@ -18,3 +18,4 @@
     4. Half Diamond Pattern - completed
     5. Binary Right Angled Triangle Pattern - completed
     6. Number Crown Pattern - completed
+    ---
