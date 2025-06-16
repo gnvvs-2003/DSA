@@ -35,3 +35,4 @@
     2. Reverse an Array - completed
     3. Valid palindrome - completed
     4. Fibonacci - completed
+    5. Freqency of each element of an array - completed
