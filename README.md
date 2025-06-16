@@ -14,3 +14,4 @@
 1. Patterns :
     1. Star Pyramid - completed
     2. Inverted Star Pyramid - completed
+    3. Diamond Pattern - completed
