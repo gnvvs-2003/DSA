@@ -24,3 +24,4 @@
 1. Basic Maths : 
     1. Count the number of digits in a number - completed
     2. Reverse the Integer - completed
+    3. Check Palindrome - completed
