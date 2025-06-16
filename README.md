@@ -19,3 +19,7 @@
     5. Binary Right Angled Triangle Pattern - completed
     6. Number Crown Pattern - completed
     ---
+
+16-06-2025 : Afternoon
+1. Basic Maths : 
+    1. Count the number of digits in a number - completed
