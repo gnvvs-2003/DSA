@@ -16,3 +16,4 @@
     2. Inverted Star Pyramid - completed
     3. Diamond Pattern - completed
     4. Half Diamond Pattern - completed
+    5. Binary Right Angled Triangle Pattern - completed
