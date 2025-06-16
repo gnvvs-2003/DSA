@@ -34,3 +34,4 @@
     1. Factorial of a Number - completed
     2. Reverse an Array - completed
     3. Valid palindrome - completed
+    4. Fibonacci - completed
