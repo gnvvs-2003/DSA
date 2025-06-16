@@ -10,9 +10,3 @@
     6. Inverted Number Right Pyramid - completed
 <<<<<<< HEAD
    ---
-=======
-
-16-06-2025
-2. Patterns :
-    1. Star Pyramid Pattern - completed
->>>>>>> e167a6d (Star Pyramid Pattern - completed)
