@@ -15,3 +15,4 @@
     1. Star Pyramid - completed
     2. Inverted Star Pyramid - completed
     3. Diamond Pattern - completed
+    4. Half Diamond Pattern - completed
