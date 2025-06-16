@@ -8,5 +8,8 @@
     4. Right Angled Number - variant 2(const value for entire row) - complete
     5. Inverted Right Pyramid - completed
     6. Inverted Number Right Pyramid - completed
-<<<<<<< HEAD
    ---
+
+16-06-2025 : 
+1. Patterns : 
+    2. Inverted Star Pyramid - completed
