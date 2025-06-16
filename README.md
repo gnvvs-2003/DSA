@@ -17,3 +17,4 @@
     3. Diamond Pattern - completed
     4. Half Diamond Pattern - completed
     5. Binary Right Angled Triangle Pattern - completed
+    6. Number Crown Pattern - completed
