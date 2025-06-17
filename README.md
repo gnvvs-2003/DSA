@@ -47,3 +47,4 @@
     2. Bubble sort - completed
     3. Insertion sort - completed
     4. Merge sort - completed
+    5. Bubble sort recursive way - completed

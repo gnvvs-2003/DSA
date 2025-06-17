@@ -28,8 +28,33 @@ public class BubbleSort {
         display(array);
     }
 
+    // RECURSIVE method
+    public static void recursiveBubbleSort(int[]array,int n){
+        if (n==0) {
+            return;
+        }
+        boolean didSwap = false;
+        for (int j = 0; j <n-1; j++) { // FIXED: j < i
+            if (array[j] > array[j + 1]) {
+                // swap
+                int temp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = temp;
+                didSwap = true;
+            }
+        }
+        if (!didSwap) {
+            return;
+        }
+        recursiveBubbleSort(array, n-1);
+    }
+
     public static void main(String[] args) {
         int[] array = {1, 2, 1, 3, 2, 4, 5, 3};
         _bubbleSort(array);
+        System.out.println();
+        int n=array.length;
+        recursiveBubbleSort(array, n);
+        display(array);
     }
 }
