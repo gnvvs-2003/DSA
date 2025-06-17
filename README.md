@@ -52,4 +52,4 @@
 
 3. Arrays
     1. Largest element of the array - completed
-    
+    2. Second Largest elemt of the array - completed
