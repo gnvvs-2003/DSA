@@ -44,3 +44,4 @@
 
 2. Sorting 
     1. Selection sort - completed
+    2. Bubble sort - completed
