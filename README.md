@@ -53,3 +53,5 @@
 3. Arrays
     1. Largest element of the array - completed
     2. Second Largest elemt of the array - completed
+    3. Check sorted array with rotation - completed
+    
