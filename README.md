@@ -56,4 +56,6 @@
     3. Check sorted array with rotation - completed
     4. Check sorted array with rotation optimized way - completed
     5. Remove duplicate elements from a sorted array - completed
-
+---
+**17-06-2025** completed
+---
