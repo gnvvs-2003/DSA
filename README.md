@@ -48,3 +48,4 @@
     3. Insertion sort - completed
     4. Merge sort - completed
     5. Bubble sort recursive way - completed
+    6. Insertion sort recursive way - completed
