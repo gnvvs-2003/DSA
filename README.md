@@ -49,9 +49,7 @@
     4. Merge sort - completed
     5. Bubble sort recursive way - completed
     6. Insertion sort recursive way - completed
----
-**17-06-2025 completed**
----
 
 3. Arrays
     1. Largest element of the array - completed
+    
