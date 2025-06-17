@@ -36,11 +36,11 @@
     3. Valid palindrome - completed
     4. Fibonacci - completed
     5. Freqency of each element of an array - completed
-<<<<<<< HEAD
 16-06-2025 date completed
-=======
 
 17-06-25 : 
 1. Basic Recursion
     1. Highest and Lowest Frequency - completed
->>>>>>> f64b9d1 (Highest and Lowest Frequency - completed)
+
+2. Sorting 
+    1. Selection sort - completed
