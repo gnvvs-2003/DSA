@@ -55,4 +55,5 @@
     2. Second Largest elemt of the array - completed
     3. Check sorted array with rotation - completed
     4. Check sorted array with rotation optimized way - completed
+    5. Remove duplicate elements from a sorted array - completed
 
