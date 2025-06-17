@@ -54,4 +54,5 @@
     1. Largest element of the array - completed
     2. Second Largest elemt of the array - completed
     3. Check sorted array with rotation - completed
-    
+    4. Check sorted array with rotation optimized way - completed
+
