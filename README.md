@@ -46,3 +46,4 @@
     1. Selection sort - completed
     2. Bubble sort - completed
     3. Insertion sort - completed
+    4. Merge sort - completed
