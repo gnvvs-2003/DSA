@@ -66,5 +66,6 @@
     2. Move all zeros of an array to last - completed
     3. Linear search - completed
     4. Union of 2 arrays - completed
+    5. Missing element- completed
 
 
