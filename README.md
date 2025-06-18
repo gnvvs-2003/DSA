@@ -64,5 +64,6 @@
 1. Arrays
     1. Rotate the array by k places - completed
     2. Move all zeros of an array to last - completed
+    3. Linear search - completed
 
 
