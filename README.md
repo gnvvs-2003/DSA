@@ -56,6 +56,19 @@
     3. Check sorted array with rotation - completed
     4. Check sorted array with rotation optimized way - completed
     5. Remove duplicate elements from a sorted array - completed
+<<<<<<< HEAD
 ---
 **17-06-2025** completed
 ---
+=======
+
+---
+**17-06-2025 date completed**
+---
+
+**18-06-25 :**
+1. Arrays
+    1. Rotate the array by k places - completed
+
+
+>>>>>>> b37293f (Rotate the array by k places - completed)
