@@ -68,5 +68,6 @@
     4. Union of 2 arrays - completed
     5. Missing element- completed
     6. Maximum consecutive ones correction - completed
+    7. Single number in the array - completed
 
 
