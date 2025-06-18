@@ -67,6 +67,6 @@
     3. Linear search - completed
     4. Union of 2 arrays - completed
     5. Missing element- completed
-    6. Maximum consecutive ones - completed
+    6. Maximum consecutive ones correction - completed
 
 

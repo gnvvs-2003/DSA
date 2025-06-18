@@ -1,32 +1,23 @@
 public class MaximumConsecutiveOnes {
-    public static int max(int x, int y) {
-        return (x > y) ? x : y;
-    }
-    public static int maxConsecutiveOnes(int[] array) {
-        int n = array.length;
-        int[] zeros = new int[n];
-        int zeroCount = 0;
-        for (int i = 0; i < n; i++) {
-            if (array[i] == 0) {
-                zeros[zeroCount++] = i;
+    public static int findMaxConsecutiveOnes(int[] nums) {
+        int maxCount = 0;
+        int currentCount = 0;
+        for (int num : nums) {
+            if (num == 1) {
+                currentCount++;
+                maxCount = Math.max(maxCount, currentCount);
+            } else {
+                currentCount = 0;
             }
         }
-        if (zeroCount < 2) {
-            return 0;
-        }
-        int largestDifference = 0;
-        for (int i = 0; i < zeroCount - 1; i++) {
-            int diff = zeros[i + 1] - zeros[i] - 1;
-            largestDifference = max(largestDifference, diff);
-        }
-        return largestDifference;
+        return maxCount;
     }
     public static void main(String[] args) {
         int[] array1 = {1, 1, 0, 1, 1, 1, 0, 1, 1};
         int[] array2 = {1, 1, 1, 1}; // no zeros
         int[] array3 = {0, 1, 1, 0, 1, 1, 1, 0, 1}; // multiple groups
-        System.out.println(maxConsecutiveOnes(array1)); // Output: 3
-        System.out.println(maxConsecutiveOnes(array2)); // Output: 0
-        System.out.println(maxConsecutiveOnes(array3)); // Output: 3
+        System.out.println(findMaxConsecutiveOnes(array1)); // Output: 3
+        System.out.println(findMaxConsecutiveOnes(array2)); // Output: 0
+        System.out.println(findMaxConsecutiveOnes(array3)); // Output: 3
     }
 }
