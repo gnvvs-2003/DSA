@@ -79,4 +79,5 @@
 1. Daily-leetcode : [2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)
 2. Arrays
     1. Two Sum - completed
+    2. Sort colors {0,1,2} - completed
 
