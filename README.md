@@ -84,3 +84,6 @@
     4. Kadane's algorithm : Max subarray sum - completed
     5. Maximum profit in stocks 1 - completed
     6. Rearrange array elements pos+neg format - completed
+---
+**19-06-2025** completed
+---
