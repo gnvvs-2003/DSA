@@ -82,3 +82,4 @@
     2. Sort colors {0,1,2} - completed
     3. Majority element - completed
     4. Kadane's algorithm : Max subarray sum - completed
+    5. Maximum profit in stocks 1 - completed
