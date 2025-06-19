@@ -1,18 +1,23 @@
 public class MajorityElement {
     public static int majorityElement(int[] nums) {
+        //size of the given array:
         int n = nums.length;
-        int count = 0, candidate = 0;
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
-            }
-            count += (num == candidate) ? 1 : -1;
+        int cnt = 0; // count
+        int el = 0; // Element
+        for (int i = 0; i < n; i++) {
+            if (cnt == 0) {
+                cnt = 1;
+                el = nums[i];
+            } else if (el == nums[i]) cnt++;
+            else cnt--;
         }
-        count = 0;
-        for (int num : nums) {
-            if (num == candidate) count++;
+        //checking if the stored element is the majority element:
+        int cnt1 = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == el) cnt1++;
         }
-        return count > nums.length / 2 ? candidate : -1;
+        if (cnt1 > (n / 2)) return el;
+        return -1;
     }
     public static void main(String[] args) {
         int[]nums = {3,2,3};
