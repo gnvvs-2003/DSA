@@ -89,6 +89,7 @@
 ---
 
 **20-06-25 :**
+1. Daily-leetcode : [3443](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20)
 1. Arrays
     1. Next Permutation - completed
     2. Leader Elements - completed
@@ -96,5 +97,6 @@
     4. Set matrix to zero - completed
     5. Game life - completed
     6. Rotate image - completed
+    7. Spiral Matrix - completed
 2. Graph Plotting
     1. Graph Plotter for breakpoint - completed
