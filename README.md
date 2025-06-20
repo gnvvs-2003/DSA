@@ -93,10 +93,13 @@
 1. Arrays
     1. Next Permutation - completed
     2. Leader Elements - completed
-    3. Lobges Consecutive sequence - completed
+    3. Longest Consecutive sequence - completed
     4. Set matrix to zero - completed
     5. Game life - completed
     6. Rotate image - completed
     7. Spiral Matrix - completed
 2. Graph Plotting
     1. Graph Plotter for breakpoint - completed
+---
+**20-06-2025** completed
+---
