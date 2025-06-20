@@ -91,3 +91,4 @@
 **20-06-25 :**
 1. Arrays
     1. Next Permutation - completed
+    2. Leader Elements - completed
