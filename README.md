@@ -93,5 +93,6 @@
     1. Next Permutation - completed
     2. Leader Elements - completed
     3. Lobges Consecutive sequence - completed
+    4. Set matrix to zero - completed
 2. Graph Plotting
     1. Graph Plotter for breakpoint - completed
