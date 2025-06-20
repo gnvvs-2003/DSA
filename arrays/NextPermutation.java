@@ -3,18 +3,17 @@ import java.util.Arrays;
 public class NextPermutation {
     public static void nextPermutation(int[]array){
         int n = array.length;
-        int index = n-2;
-        while(index>0 && array[index]>=array[index+1]){
+        int index = n - 2;
+        while (index >= 0 && array[index] >= array[index + 1]) {
             index--;
         }
-        if(index>=0){
-            int j = n-1;
-            while (array[j]<=array[index]) {
+        if (index >= 0) {
+            int j = n - 1;
+            while (array[j] <= array[index]) {
                 j--;
             }
-            swap(array,index,j);
+            swap(array, index, j);
         }
-
         /**
          * @gnvvs-2003 : sort the part after the index : but finding pivot means it was sorted till the index so just reversing is ok 
          */
