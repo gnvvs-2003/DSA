@@ -87,3 +87,7 @@
 ---
 **19-06-2025** completed
 ---
+
+**20-06-25 :**
+1. Arrays
+    1. Next Permutation - completed
