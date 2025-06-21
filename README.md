@@ -107,3 +107,5 @@
 **21-06-25 :**
 1. Arrays 
     1. count of sub arrays with sum = k - completed
+2. Sorting 
+    1. Single pivot quick sort - completed
