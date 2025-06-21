@@ -103,3 +103,7 @@
 ---
 **20-06-2025** completed
 ---
+
+**21-06-25 :**
+1. Arrays 
+    1. count of sub arrays with sum = k - completed
