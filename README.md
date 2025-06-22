@@ -109,3 +109,10 @@
     1. count of sub arrays with sum = k - completed
 2. Sorting 
     1. Single pivot quick sort - completed
+---
+**21-06-2025** completed
+---
+
+**22-06-25 :**
+1. Arrays 
+    1. Pascal Triangle - completed
