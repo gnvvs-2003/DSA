@@ -116,3 +116,10 @@
 **22-06-25 :**
 1. Arrays 
     1. Pascal Triangle - completed
+---
+**22-06-2025** completed
+---
+
+**23-06-25 :**
+1. Arrays
+    1. Major element(2) - completed 
