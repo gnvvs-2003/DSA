@@ -124,3 +124,4 @@
 1. Arrays
     1. Major element(2) - completed 
     2. Sorting intervals - completed
+    3. Three sum - completed
