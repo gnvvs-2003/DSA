@@ -123,3 +123,4 @@
 **23-06-25 :**
 1. Arrays
     1. Major element(2) - completed 
+    2. Sorting intervals - completed
