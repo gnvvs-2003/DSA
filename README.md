@@ -127,3 +127,4 @@
     3. Three sum - completed
     4. Four sum - completed
     5. Longest sub array with sum = 0 - completed
+    6. Count sub arrays with given XOR - completed
