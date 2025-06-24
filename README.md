@@ -144,3 +144,4 @@
     4. Count Inversions - completed
     5. Reverse Pairs - completed
 2. Daily-leetcode : [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24)
+3. TCS NQT : 2 problems completed on arrays
