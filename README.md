@@ -139,3 +139,4 @@
 **24-06-25 :**
 1. Arrays
     1. Merge overlapped intervals - completed
+    2. Merge 2 sorted arrays - completed
