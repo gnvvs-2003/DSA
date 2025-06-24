@@ -1,10 +1,9 @@
-public class CountInversions{
-    public static int merge(int[]array,int low,int mid,int high){
+public class ReversePairs {
+    public static void merge(int[]array,int low,int mid,int high){
         int[]temp = new int[high-low+1];
         int left = low;
         int right = mid+1;
         int index = 0;
-        int count = 0;
         while(left<=mid && right<=high){
             if (array[left]<=array[right]) {
                 temp[index] = array[left];
@@ -15,11 +14,6 @@ public class CountInversions{
                 temp[index] = array[right];
                 index++;
                 right++;
-            /*
-             * @gnvvs-2003 : array[left]>array[right] is the req condition
-             */
-                // count++; but it occurs (mid-left+1) times as all the elements to the right of array[left]
-                count+=(mid-left+1);
             }
         }
         while (left<=mid) {
@@ -36,8 +30,19 @@ public class CountInversions{
         for(int i=0;i<temp.length;i++){
             array[low+i]=temp[i];
         }
+    }
+    public static int countCondition(int[] array, int low, int mid, int high) {
+        int count = 0;
+        int right = mid + 1;
+        for (int i = low; i <= mid; i++) {
+            while (right <= high && (long) array[i] > 2L * array[right]) {
+                right++;
+            }
+            count += (right - (mid + 1));
+        }
         return count;
     }
+
     public static int mergeSort(int[]array,int low,int high){
         int count = 0;
         if (low>=high) {
@@ -46,7 +51,13 @@ public class CountInversions{
         int mid = (low+high)/2;
         count+=mergeSort(array, low, mid);
         count+=mergeSort(array, mid+1, high);
-        count+=merge(array,low,mid,high);
+        // count+=merge(array,low,mid,high);
+        /*
+         * @gnvvs-2003 The only difference is while count inversion pair just merge condition is ok but now a different condition is required
+         */
+        count+=countCondition(array,low,mid,high);
+        merge(array, low, mid, high);
+
         return count;
     }
     public static int noOfInversions(int[]array){

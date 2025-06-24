@@ -142,3 +142,4 @@
     2. Merge 2 sorted arrays - completed
     3. Max sub array product - completed
     4. Count Inversions - completed
+    5. Reverse Pairs - completed
