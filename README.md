@@ -130,3 +130,10 @@
     6. Count sub arrays with given XOR - completed
 2. Basic Maths
     1. Repeating and missing number - completed
+3. Daily-leetcode : [56](https://leetcode.com/problems/merge-intervals/description/)
+
+---
+**23-06-2025** completed
+---
+
+**24-06-25 :**
