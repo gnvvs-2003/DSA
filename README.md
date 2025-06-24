@@ -141,3 +141,4 @@
     1. Merge overlapped intervals - completed
     2. Merge 2 sorted arrays - completed
     3. Max sub array product - completed
+    4. Count Inversions - completed
