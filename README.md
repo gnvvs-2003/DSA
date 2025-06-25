@@ -148,3 +148,10 @@
 ---
 **24-06-2025** completed
 ---
+
+---
+**24-06-2025** completed
+---
+
+**25-06-25 :**
+1. Daily-leetcode : [2040](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25) - only brute force comepleted
