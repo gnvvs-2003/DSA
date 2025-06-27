@@ -155,3 +155,17 @@
 
 **25-06-25 :**
 1. Daily-leetcode : [2040](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25) - only brute force comepleted
+
+---
+**25-06-2025** completed
+---
+
+**26-06-25 :**
+---
+**26-06-2025** completed
+---
+
+**27-06-25 :**
+
+1. Binary Search
+    1. Binary search - iterative+recursive - completed
