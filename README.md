@@ -179,3 +179,4 @@
     3. Search index position - completed
     4. Floor and Ceil indexed - completed
     5. First and Last index - completed
+    6. Occurences of an element - completed
