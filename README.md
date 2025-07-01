@@ -169,3 +169,9 @@
 
 1. Binary Search
     1. Binary search - iterative+recursive - completed
+
+---
+
+**01-07-25 :**
+1. Binary Search 
+    1. Lower bound - completed 
