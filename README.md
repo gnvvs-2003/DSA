@@ -176,3 +176,4 @@
 1. Binary Search 
     1. Lower bound - completed 
     2. Upper bound - completed
+    3. Search index position - completed
