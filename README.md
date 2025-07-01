@@ -178,3 +178,4 @@
     2. Upper bound - completed
     3. Search index position - completed
     4. Floor and Ceil indexed - completed
+    5. First and Last index - completed
