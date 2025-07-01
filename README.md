@@ -175,3 +175,4 @@
 **01-07-25 :**
 1. Binary Search 
     1. Lower bound - completed 
+    2. Upper bound - completed
