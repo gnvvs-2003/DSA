@@ -189,3 +189,4 @@
     1. Search element in a sorted rotated array - completed
     2. Search element in a sorted rotated array with duplicates - completed
     3. Minimum value in a sorted rotated array - completed
+    4. No of times a sorted array is rotated - completed
