@@ -192,3 +192,6 @@
     4. No of times a sorted array is rotated - completed
 2. arrays
     1. Unique Element in an array - completed
+---
+**02-07-2025** completed
+---
