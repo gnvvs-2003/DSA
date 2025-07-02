@@ -188,3 +188,4 @@
 1. Binary Search
     1. Search element in a sorted rotated array - completed
     2. Search element in a sorted rotated array with duplicates - completed
+    3. Minimum value in a sorted rotated array - completed
