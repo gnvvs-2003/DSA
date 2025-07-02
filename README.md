@@ -183,3 +183,7 @@
 ---
 **01-07-2025** completed
 ---
+
+**02-07-25 :**
+1. Binary Search
+    1. Search element in a sorted rotated array - completed
