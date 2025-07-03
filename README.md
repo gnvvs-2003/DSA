@@ -192,11 +192,9 @@
     4. No of times a sorted array is rotated - completed
 2. arrays
     1. Unique Element in an array - completed
-<<<<<<< HEAD
 ---
 **02-07-2025** completed
 ---
-=======
 
 ---
 **02-07-2025** completed
@@ -205,4 +203,3 @@
 **03-07-25 :**
 1. Binary Search 
     1. Peak Element - completed
->>>>>>> f2d289c (Peak Element - completed)
