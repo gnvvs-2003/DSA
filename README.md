@@ -203,3 +203,11 @@
 **03-07-25 :**
 1. Binary Search 
     1. Peak Element - completed
+
+---
+**03-07-2025** completed
+---
+
+**07-07-25 :**
+1. Binary search 
+    1. Square root of a number using BS - completed
