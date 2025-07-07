@@ -213,3 +213,4 @@
     1. Square root of a number using BS - completed
     2. Nth root of a number - completed
     3. KoKo eating bananas - brute force completed
+    4. KoKo eating bananas - optinal approach - completed
