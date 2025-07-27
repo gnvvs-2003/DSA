@@ -1,55 +1,35 @@
 public class CountGoodNumbers {
+    static final int MOD = 1_000_000_007;
 
-    static final int MOD = Integer.MAX_VALUE;
-
-    // Helper to check if a digit is prime
-    public static boolean isPrimeDigit(int digit) {
-        return digit == 2 || digit == 3 || digit == 5 || digit == 7;
+    // Helper method to calculate base^exp % MOD without recursion or separate
+    // function
+    public static long fastPower(long base, int exp) {
+        long result = 1;
+        base %= MOD;
+        while (exp > 0) {
+            if ((exp & 1) == 1) {
+                result = (result * base) % MOD;
+            }
+            base = (base * base) % MOD;
+            exp >>= 1;
+        }
+        return result;
     }
 
-    // Checks if even digits are present at even places (1-based index from right)
-    public static boolean evenDigitsAtEvenPlaces(int n) {
-        int position = 1;
-        while (n > 0) {
-            int digit = n % 10;
-            if (position % 2 == 0 && digit % 2 != 0) {
-                return false;
-            }
-            n /= 10;
-            position++;
-        }
-        return true;
-    }
+    public static int countGoodNumbers(int n) {
+        int evenPositions = (n + 1) / 2; // digits at even indices (0-based)
+        int oddPositions = n / 2; // digits at odd indices
 
-    // Checks if prime digits are present at odd places (1-based index from right)
-    public static boolean primeDigitsAtOddPlaces(int n) {
-        int position = 1;
-        while (n > 0) {
-            int digit = n % 10;
-            if (position % 2 != 0 && !isPrimeDigit(digit)) {
-                return false;
-            }
-            n /= 10;
-            position++;
-        }
-        return true;
-    }
+        // For even positions: digits must be even → 0, 2, 4, 6, 8 → 5 choices
+        // For odd positions: digits must be prime → 2, 3, 5, 7 → 4 choices
 
-    public static int goodNumbersCount(int n) {
-        int count = 0;
-        int start = (int) Math.pow(10, n - 1);
-        int end = (int) Math.pow(10, n);
-
-        for (int i = start; i < end; i++) {
-            if (evenDigitsAtEvenPlaces(i) && primeDigitsAtOddPlaces(i)) {
-                count++;
-            }
-        }
-
-        return count % MOD;
+        long result = fastPower(5, evenPositions) * fastPower(4, oddPositions) % MOD;
+        return (int) result;
     }
 
     public static void main(String[] args) {
-        System.out.println(goodNumbersCount(4)); // Example
+        System.out.println(countGoodNumbers(1)); // 5
+        System.out.println(countGoodNumbers(4)); // 400
+        System.out.println(countGoodNumbers(50)); // 564908303
     }
 }
