@@ -214,3 +214,17 @@
     2. Nth root of a number - completed
     3. KoKo eating bananas - brute force completed
     4. KoKo eating bananas - optinal approach - completed
+
+---
+**07-07-2025** completed
+---
+
+**027-07-25 :**
+1. Recursion
+    1. power of a number - completed
+    2. Counting good numbers - completed
+    3. Atoi - completed
+
+---
+**27-07-2025** completed
+---
