@@ -232,3 +232,6 @@
 **28-07-25 :**
 1. Recursion
     1. Stack sorting using recursion - completed
+    2. Stack reverse using recursion - completed
+    3. generating all binary - completed
+    4. generate parenthesis - completed
