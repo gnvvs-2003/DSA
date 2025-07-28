@@ -219,7 +219,7 @@
 **07-07-2025** completed
 ---
 
-**027-07-25 :**
+**27-07-25 :**
 1. Recursion
     1. power of a number - completed
     2. Counting good numbers - completed
@@ -228,3 +228,7 @@
 ---
 **27-07-2025** completed
 ---
+
+**28-07-25 :**
+1. Recursion
+    1. Stack sorting using recursion - completed
